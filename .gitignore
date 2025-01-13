@@ -163,6 +163,9 @@ cython_debug/
 
 archive.zip
 ks-projects-201801.csv
-archive
-week-3_answers.ipynb
+archive.zip
 .DS_Store
+ks-projects-201612.csv
+data
+kickstarter.db
+seequl_answers.ipynb
